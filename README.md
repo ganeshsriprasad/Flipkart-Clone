@@ -1,10 +1,16 @@
 # Flipkart-Clone 
 
- An e-commerce web application built using the MERN stack (MongoDB, Express, React, Node.js) that replicates the features and functionality of Flipkart. This project provides a comprehensive shopping experience, with distinct roles for admin and users.
-
 ![GitHub stars](https://img.shields.io/github/stars/ganeshsriprasad/flipkart-clone) 
 ![GitHub forks](https://img.shields.io/github/forks/ganeshsriprasad/flipkart-clone)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+ An e-commerce web application built using the MERN stack (MongoDB, Express, React, Node.js) that replicates the features and functionality of Flipkart. This project provides a comprehensive shopping experience, with distinct roles for admin and users.
+
+
+
+
+
+### Website Live on - https://flipkart-clone-ganeshs-projects-22834670.vercel.app/
 
 ### Main Page
 
