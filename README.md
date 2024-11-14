@@ -1,12 +1,18 @@
 # Flipkart-Clone 
 
-#### An e-commerce web application built using the MERN stack (MongoDB, Express, React, Node.js) that replicates the features and functionality of Flipkart. This project provides a comprehensive shopping experience, with distinct roles for admin and users.
+ An e-commerce web application built using the MERN stack (MongoDB, Express, React, Node.js) that replicates the features and functionality of Flipkart. This project provides a comprehensive shopping experience, with distinct roles for admin and users.
 
 ![GitHub stars](https://img.shields.io/github/stars/ganeshsriprasad/flipkart-clone) 
 ![GitHub forks](https://img.shields.io/github/forks/ganeshsriprasad/flipkart-clone)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-<img src="templates/quiz ui.png" width="900"> 
+### Main Page
+
+<img src="frontend/public/Flipkart UI.png" width="900"> 
+
+
+
+
 
 ## Features
 
@@ -32,6 +38,11 @@
 - **Authentication**: JWT (JSON Web Token) for secure authentication
 - **Payment Integration**: Secure payment options (e.g., Stripe, Razorpay)
 - **Deployment**: Deployed using platforms like Heroku, Vercel, or AWS
+
+### Login Page
+---
+
+<img src="frontend/public/Login UI.png" width="900"> 
 
 ## Installation
 
@@ -88,6 +99,11 @@ REACT_APP_PAYMENT_PUBLIC_KEY=your_payment_gateway_public_key
 ```bash
 npm start
 ```
+
+### Cart view page
+---
+
+<img src="frontend/public/cart view.png" width="900"> 
 
 ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
